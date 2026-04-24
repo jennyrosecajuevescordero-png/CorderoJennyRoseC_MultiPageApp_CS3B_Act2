@@ -10,7 +10,7 @@ st.markdown("""
 }
 
 .header {
-    background: linear-gradient(135deg, #BDA6CE, #9B8EC7);
+    background: linear-gradient(135deg, #30364F, #576A8F);
     padding: 40px;
     border-radius: 20px;
     text-align: center;

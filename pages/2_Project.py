@@ -6,7 +6,7 @@ st.set_page_config(page_title="My Project", page_icon="💼", layout="centered")
 st.markdown("""
 <style>
 .hero {
-    background: linear-gradient(to right, #BDA6CE, #9B8EC7);
+    background: linear-gradient(to right, #30364F, #576A8F);
     padding: 30px;
     border-radius: 15px;
     text-align: center;
